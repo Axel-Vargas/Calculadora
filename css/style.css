@@ -1,0 +1,194 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+form {
+  text-align: center;
+  width: 380px;
+  height: 575px;
+  margin: none;
+  background-color: #1d1d1d;
+  border-radius: 8px;
+  margin-top: 4rem;
+}
+
+.fondo{
+  background: url("../img/fondo.jpg");
+  width: 100%;
+  height: 100vh;
+}
+
+ul {
+  text-align: left;
+  list-style-type: none;
+  height: 4rem;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-left: 1rem;
+  padding-bottom: 4rem;
+  display: inline-block;
+}
+
+p {
+  margin: 2rem 0 0 0;
+  font-size: 34px;
+  color: white;
+}
+
+h3 {
+  margin: 2rem 0 0 0;
+  font-size: 28px;
+  color: white;
+}
+
+form input[type="text"] {
+  text-align: right;
+  width: 90%;
+  height: 4rem;
+  border: none;
+  margin-top: 2.1rem;
+  margin-bottom: 2.3rem;
+  font-size: 36px;
+  background-color: #1d1d1d;
+  color: white;
+}
+
+.funcionesEspeciales {
+  text-align: center;
+}
+
+form input[id="MC"],
+form input[id="MR"],
+form input[id="Mmas"],
+form input[id="Mmenos"],
+form input[id="MS"],
+form input[id="M"] {
+  text-align: center;
+  border: none;
+  width: 3.6rem;
+  font-size: 14px;
+  height: 2.5rem;
+  background-color: #1d1d1d;
+  color: white;
+}
+
+.funciones {
+  margin: 2px 6px 5px 6px;
+  text-align: left;
+  background-color: #191919;
+}
+
+.opcionesT{
+  text-align: left;
+  border: none;
+  width: 7rem;
+  font-size: 14px;
+  height: 2.5rem;
+  background-color:#191919;
+  color: white;
+}
+
+.opcionesF{
+  text-align: left;
+  border: none;
+  width: 7rem;
+  font-size: 14px;
+  height: 2.5rem;
+  background-color:#191919;
+  color: white;
+}
+
+
+
+form input[id="2nd"],
+form input[id="pi"],
+form input[id="euler"],
+form input[id="borrar"],
+form input[id="res"],
+form input[id="potenciaCuadrada"],
+form input[id="fraccion"],
+form input[id="absoluto"],
+form input[id="notacion"],
+form input[id="mod"],
+form input[id="parentesisI"],
+form input[id="raiz"],
+form input[id="parentesisD"],
+form input[id="factorial"],
+form input[id="div"],
+form input[id="potenciaBDiez"],
+form input[id="potencia"],
+form input[id="por"],
+form input[id="mas"],
+form input[id="menos"],
+form input[id="logaritmo"],
+form input[id="logaritmoN"] {
+  border: none;
+  width: 4.4rem;
+  font-size: 16px;
+  height: 2.5rem;
+  margin-bottom: 1px;
+  color: white;
+  background-color: #131313;
+}
+
+form input[type="reset"] {
+  border: none;
+  width: 4.4rem;
+  font-size: 16px;
+  height: 2.5rem;
+  margin-bottom: 1px;
+  color: white;
+}
+
+form input[id="cero"],
+form input[id="uno"],
+form input[id="dos"],
+form input[id="tres"],
+form input[id="cuatro"],
+form input[id="cinco"],
+form input[id="seis"],
+form input[id="siete"],
+form input[id="ocho"],
+form input[id="nueve"],
+form input[id="masmenos"],
+form input[id="punto"] {
+  border: none;
+  width: 4.4rem;
+  font-size: 16px;
+  height: 2.5rem;
+  margin-bottom: 1px;
+  color: white;
+  background-color: #060606;
+}
+
+form input[id="igual"] {
+  border: none;
+  width: 4.4rem;
+  font-size: 16px;
+  height: 2.5rem;
+  margin-bottom: 1px;
+  color: white;
+  background-color: #115a5f;
+}
+
+form input[type="button"]:hover {
+  background-color: #494949;
+}
+
+form input[id="igual"]:hover {
+  background-color: #03a7b2;
+}
+
+form input[id="Trigonometría"]:hover,
+form input[id="Función"]:hover {
+  background-color: #494949;
+}
+
+
+
+
+
