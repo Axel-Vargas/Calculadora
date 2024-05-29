@@ -12,7 +12,7 @@
 <center>
 <body>
   <div class="fondo">
-    <h1 style="color:white">Calculadora</h1>
+    <h1 style="color:white">Calculadora Cientifica</h1>
     <form name="calculator">
       <ul>
         <li><p>≡</p></li>
