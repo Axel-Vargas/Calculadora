@@ -19,13 +19,9 @@ Una calculadora científica interactiva diseñada para ofrecer funcionalidades a
 ## Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/calculadora.git
+   git clone https://github.com/Axel-Vargas/Calculadora.git
    ```
-2. Navega al directorio del proyecto:
-   ```bash
-   cd calculadora-cientifica
-   ```
-3. Abre el archivo `index.php` en tu navegador para probar la calculadora.
+2. Abre el archivo `index.php` en tu navegador para probar la calculadora.
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Siéntete libre de usarlo y modificarlo según tus necesidades.
